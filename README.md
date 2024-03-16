@@ -6,9 +6,9 @@
 
 <br>
 <div>
-<a href="https://github.com/BreadcrumbsArtlinhares/github-readme-stats"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsArtlinhares&show_icons=true&theme=blue_navy"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsArtlinhares&layout=compact&langs_count=16&theme=blue_navy" />
+<a href="https://github.com/SamuelFerreiraGuimaraes/github-readme-stats"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artlinhares&show_icons=true&theme=blue_navy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artlinhares&layout=compact&langs_count=16&theme=blue_navy" />
 </div>
 
 <div style="display: inline_block"><br>
